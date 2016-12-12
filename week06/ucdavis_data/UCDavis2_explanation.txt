@@ -1,0 +1,22 @@
+UCDavis2
+
+Data from n=239 college students. The data were collected in the Fall quarter of 2000. (Source: The authors)
+
+There are fourteen columns of data:
+
+Column    Name           Description
+ C1         Sex               Male or Female 
+ C2         GPA             Student's GPA 
+ C3         Seat              Typical classroom seat location (Front Middle Back) 
+ C4         Alcohol          Number of alcoholic beverages consumed in typical week 
+ C5         WtFeel          Does student feel he/she is Oveweight, Underweight, About Right? 
+ C6         Height           Self-reported height, inches 
+ C7         IdealHt          Student's choice of ideal height, inches 
+ C8         momheight     Mother's height, inches 
+ C9         dadheight       Father's height, inches 
+ C10       Hand              Are you   Left-handed or Right-handed ? 
+ C11       Looks             On a scale of 1-25 importance of personality (1) versus looks (25)
+ C12       Friends          Who is easiest to make friends with? (Opposite sex   Same sex) 
+ C13       Cheat             Would you tell the instructor if you saw somebody cheating on an exam?
+ C14       Smoke            Does student smoke at least one pack of cigarettes per week? 
+  
