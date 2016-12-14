@@ -21,26 +21,30 @@ You will learn to use the R data analysis software package to complete data proc
 ###Week 3:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;•	Importing data into R<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;•	Object types<br/>
-Helpful websites<br/>
+
+*Helpful websites*<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;•	http://www.ats.ucla.edu/stat/r/faq/inputdata_R.htm<br/>
 
 ###Week 4:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;•	If else statements<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;•	for loops<br/>
-Helpful websites<br/>
+
+*Helpful websites*<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;•	http://www.programiz.com/r-programming/if-else-statement<br/> 
 
 ###Week 5:<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;•	Summary statistics/Central Tendencies<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;•	Handling missing data<br/>
-Helpful websites<br/>
+
+*Helpful websites*<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;•	Under the infix functions section - http://adv-r.had.co.nz/Functions.html<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;•	Writing your own functions - http://www.ats.ucla.edu/stat/r/library/intro_function.htm <br/>
 
 ###Week 6:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;•	Basic statistical analyses<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;•	T tests, correlations<br/>
-Helpful websites<br/>
+
+*Helpful websites*<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;•	http://statistics.berkeley.edu/computing/r-t-tests <br/>
 
 ###Week 7:<br/>
@@ -53,12 +57,14 @@ Helpful websites<br/>
 ###Week 9:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;•	Reshape data<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;•	Substitutions and paste functions<br/>
-Helpful Websites<br/>
+
+*Helpful Websites*<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;•	http://seananderson.ca/2013/10/19/reshape.html <br/>
 
 ###Week 10:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;•	ANOVA<br/>
-Helpful Websites<br/>
+
+*Helpful Website*s<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;•	http://www.personality-project.org/r/r.anova.html <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;•	http://yatani.jp/teaching/doku.php?id=hcistats:anova <br/>
 
